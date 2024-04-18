@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Arvind Tiwari and I'm a Software Engineer.</h2>
+<h2 align="left">Hi 👋! My name is Arvind Tiwari and I'm a Software Engineer \ Ex-Nagarro.</h2>
 
 ###
 
