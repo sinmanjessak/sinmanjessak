@@ -1,27 +1,29 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
 
-###
-
-
-###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img height="150" src="https://avatars.githubusercontent.com/u/77075270?s=400&u=a6f35b71731988d0aa76e4770b29efacfa4c17f7&v=4"  />
 </div>
 
+
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sinmanjessak.sinmanjessak&"  />
+</div>
+
+
+
 ###
 
-<h1 align="center">Hi 👋! My name is Arvind Tiwari and I'm a Software Engineer \ Ex-Nagarro.</h1>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Hey there! I'm a Software Engineer and with my extensive knowledge of programming languages, software development methodologies, and software engineering principles, I possess a strong foundation in the IT field. I can contribute to developing and maintaining complex software systems, ensuring high-quality code and robust architecture. I excel in problem-solving and critical thinking. I can analyze complex issues, break them down into manageable components, and provide creative solutions. I can quickly familiarize myself with new frameworks, programming languages, or tools, allowing me to stay up-to-date with industry trends and best practices. I can engage in discussions, provide insights, and understand the needs of stakeholders. I can also provide clear explanations of complex technical concepts.</h3>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<h2 align="left">Hi 👋! My name is Arvind Tiwari and I'm a Software Engineer \ Ex-Nagarro.</h2>
+<p align="left">I'm Arvind Tiwari from Varanasi ||India |<br><br>- 🔭 I’m working as a Software Engineer| Ex-Nagarro<br>- 📚 I'm currently learning System design <br>- ⚡ In my free time I share Software related content on github</p>
+
 
 ###
 <div align="center">
