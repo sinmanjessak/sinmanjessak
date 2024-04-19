@@ -1,6 +1,6 @@
 
 
-<div align="center">
+<div align="center" background-color="#bebebe">
   <img height="250" border="circle " src="https://avatars.githubusercontent.com/u/77075270?s=400&u=a6f35b71731988d0aa76e4770b29efacfa4c17f7&v=4"  />
 </div>
 
