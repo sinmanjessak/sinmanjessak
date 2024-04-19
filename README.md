@@ -79,7 +79,8 @@
 
 ###
 
-<h3 align="left" mg-top=2 >🔥   My Stats :</h3>
+<h3 align="left"   border= "1px solid red",
+  margin-top= 100px >🔥   My Stats :</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sinmanjessak&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
