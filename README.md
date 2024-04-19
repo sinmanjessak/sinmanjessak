@@ -1,13 +1,7 @@
 
 
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/77075270?s=400&u=a6f35b71731988d0aa76e4770b29efacfa4c17f7&v=4"  />
-</div>
-
-
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sinmanjessak.sinmanjessak&"  />
+  <img height="250" border="circle " src="https://avatars.githubusercontent.com/u/77075270?s=400&u=a6f35b71731988d0aa76e4770b29efacfa4c17f7&v=4"  />
 </div>
 
 
@@ -22,7 +16,7 @@
 
 ###
 
-<p align="left">I'm Arvind Tiwari from Varanasi ||India |<br><br>- 🔭 I’m working as a Software Engineer| Ex-Nagarro<br>- 📚 I'm currently learning System design <br>- ⚡ In my free time I share Software related content on github</p>
+<p align="left">I'm Arvind Tiwari from Varanasi |India |<br><br>- 🔭 I’m working as a Software Engineer| Ex-Nagarro<br>- 📚 I'm currently learning System design. <br>- ⚡ In my free time I share Software related content on github.</p>
 
 
 ###
@@ -85,12 +79,12 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left" mg-top=2 >🔥   My Stats :</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sinmanjessak&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div> />
-###
+</div>
+
 
 
 
